@@ -11,5 +11,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         InnerClass innerClass = new InnerClass();
         innerClass.print("Hello World!");
+        innerClass.print("Goodbye!");
     }
 }
